@@ -31,7 +31,7 @@ else {
 });
 });
 $(document).ready(function(){
-$("#Project").mouseenter(function(){
+$("#work1").mouseenter(function(){
 $(".hover1").show();
 }).mouseleave(function(){
     $(".hover1").hide();
