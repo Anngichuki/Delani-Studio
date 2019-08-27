@@ -1,16 +1,16 @@
-.back {
+.back  {
     background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg);
     background-size: cover;
     height: 720px;
     color: white;
 }
-#logo {
+#logo  {
     padding-top: 230px;
     padding-left: 600px;
     padding-right: 10px;
     width: 20px;
 }
-.well {
+.well  {
     padding-top: 32px;
     text-align: center;
     font-size: 60px;
@@ -19,14 +19,14 @@
     padding-left: 2px;
     font-weight: 100px;
 }
-.red {
+.red  {
     font-family: 'Acme';
     text-align: center;
     font-size: 40px;
     padding-top:31px;
     margin-left: 2%;
 }
-.right {
+.right  {
     text-align: center;
     font-size: 10px;
     font-family: 'Roboto'; 
@@ -38,7 +38,7 @@
     padding-top: 120px;
     padding-left: 630px;}
 
-p {
+p  {
     text-align: center;
 }
 .yes  {
@@ -58,68 +58,56 @@ p {
 .port  {
     text-align: center;
     font-family: 'Acme';
-
 }
-.four, .three{
+.four, .three  {
     padding-bottom: 30px;
 }
-#box {
-    
+#box  {
     background-color: transparent;
     font-family: 'Geneva';
-    
     text-align: center;
     color: white;
-    
 }
-#trans {
-
+#trans  {
     background-color: transparent;
     font-family: 'Geneva';
-    
     text-align: center;
     color: white;
-    }
-.ban{
+}
+.ban  {
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true);
-            height: 100vh;
-        
+    height: 100vh;  
 }
-textarea{
+textarea  {
     background: transparent;
     font-family: Geneva;
     margin-bottom: 5px;
     margin-top:2%;
-
 }
-::placeholder {
+::placeholder  {
     color: white;
     font-weight: 100%;
 }
-
-.p1, .p2, .p3{
+.p1, .p2, .p3  {
     display: none;
 }
-.peter, .jane, .mary{
+.peter, .jane, .mary  {
     text-align: center;
 }
-
-button{
+button  {
     background-color: aqua;
     margin-right:10%;
-
 }
-.sbutton{
+.sbutton  {
     text-align: center;
 }
-#mof{
+#mof  {
     text-align:center;
 }
 .studio  {
     text-align: center;
     color: black;
     font-size: 15px;
-
 }
 .hover1,
 .hover2,
@@ -128,7 +116,7 @@ button{
 .hover5,
 .hover6,
 .hover7,
-.hover8{
+.hover8  {
     color:blue;
     text-align: center;
     position:absolute;
